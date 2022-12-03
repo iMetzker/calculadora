@@ -21,5 +21,5 @@ O projeto consiste na criação de uma calculadora de operações simples, propo
 ## 🛠 Prévia 
 
 <img src="./public/previaCalc.png" alt="Pré visualização da página inicial"> <br>
-👩‍💻 Visite o projeto: <a href="" rel="Site" target="_blank">Calculadora Simples</a>
+👩‍💻 Visite o projeto: <a href="https://calcimetzker.netlify.app/" rel="Site" target="_blank">Calculadora Simples</a>
 
