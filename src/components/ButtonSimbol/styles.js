@@ -13,5 +13,6 @@ margin: 0.5em;
 
 &:hover{
     cursor: pointer;
+    opacity: 80%;
 }
 `
