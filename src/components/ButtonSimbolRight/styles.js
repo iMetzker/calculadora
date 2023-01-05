@@ -1,14 +1,14 @@
 import styled from 'styled-components';
 
-export const ButtonContainer = styled.button`
+export const ButtonContainerOrange = styled.button`
 width: 3em;
 height: 3em;
 font-size: 1.5em;
 
+background: #FF9500;
+color: #FFFFFF;
 border: none;
 border-radius: 2em;
-background: #505050;
-color: #FFFFFF;
 
 margin: 0.5em;
 

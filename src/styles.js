@@ -1,7 +1,7 @@
 import styled from "styled-components";
 
 export const Container = styled.div`
-    width: 100%;
+    width: 100vw;
     height: 100vh;
     background-color: #dad7cd;
 
@@ -11,21 +11,17 @@ export const Container = styled.div`
 `
 
 export const Content = styled.div`
+background-color: #000;
+border-radius: 1em;
 
-background-color: #202124;
-width: 500px;
-padding: 20px;
-
-box-shadow: 12px 10px 10px #080705;
-
+width: 25em;
+padding: 2em;
 `
 
 export const Row = styled.div`
-
 display: flex;
 justify-content: space-between;
 align-items: center;
-
 `
 
 
