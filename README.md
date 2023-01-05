@@ -35,5 +35,5 @@ O projeto consiste na criação de uma calculadora de operações simples de som
 
 <p>
 Desenvolvido por: <a href="https://github.com/iMetzker">Ivny Metzker</a> <br>
-Projeto realizando duranto o Bootcamp Orange Tech + da <a href="https://www.dio.me/">DIO</a>
+Projeto realizando durante o Bootcamp Orange Tech + da <a href="https://www.dio.me/">DIO</a>
 </p>
